@@ -8,3 +8,15 @@
 - 📫 Como me encontrar: https://www.linkedin.com/in/amanda-sena/ ou amandasena97@gmail.com
 - 😄 Pronomes: Ela/dela
 - ⚡ Fatos interessantes: Estudante de mestrado em física com experiência como cientista de dados estudando Java.
+
+
+<details>
+<summary>Minhas linguagens mais utilizadas</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| Python    |
+|     3| SQL       |
+  
+</details>
