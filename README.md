@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate data scientist and developer from Brazil</h3>
+# 👋 Hello! Welcome to my Github profile, my name is Amanda!
 
 - 🔭 I’m currently working on **Java APIs and business intelligence**
 
