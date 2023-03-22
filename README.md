@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Java**
 
-- 👨‍💻 All of my projects are available at [on github](on github)
+- 👨‍💻 All of my projects are available at [on github](github.com/amandaqsena)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/amanda-sena/](https://www.linkedin.com/in/amanda-sena/)
 
