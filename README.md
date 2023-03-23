@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/amanda-sena/](https://www.linkedin.com/in/amanda-sena/)
 
-- 💬 Ask me about **data science,python, models and algorithms**
+- 💬 Ask me about **data science, python, models and algorithms**
 
 - 📫 How to reach me **amandasena97@gmail.com**
 
