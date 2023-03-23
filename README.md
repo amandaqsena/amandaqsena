@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Java APIs and business intelligence**
 
-- 🌱 I’m currently learning **Java e quarkus**
+- 🌱 I’m currently learning **Java and quarkus**
 
 - 👯 I’m looking to collaborate on **Java projects**
 
 - 🤝 I’m looking for help with **Java**
 
-- 👨‍💻 All of my projects are available at [on github](github.com/amandaqsena)
+- 👨‍💻 All of my projects are available at [github](github.com/amandaqsena)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/amanda-sena/](https://www.linkedin.com/in/amanda-sena/)
 
